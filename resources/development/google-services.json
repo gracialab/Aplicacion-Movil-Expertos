@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "905462635535",
+    "project_id": "mrfix---dev",
+    "storage_bucket": "mrfix---dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905462635535:android:f10194043b0940c99bd77a",
+        "android_client_info": {
+          "package_name": "com.mrfix.mrfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905462635535-5eg1gqnhr4qs33kigc4nvbf56fo0c57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2K6RT0_jKewymaiYhdW_oCNM0wSvLZKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905462635535-5eg1gqnhr4qs33kigc4nvbf56fo0c57h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905462635535-6ighfqod5f6pgifeq5167cr7uvoel5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrfix.mrfix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905462635535:android:c44d3cc7be33b5ff9bd77a",
+        "android_client_info": {
+          "package_name": "com.mrfixexpert.mrfixexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905462635535-5eg1gqnhr4qs33kigc4nvbf56fo0c57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2K6RT0_jKewymaiYhdW_oCNM0wSvLZKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905462635535-5eg1gqnhr4qs33kigc4nvbf56fo0c57h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905462635535-6ighfqod5f6pgifeq5167cr7uvoel5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrfix.mrfix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "56580830373",
+    "project_id": "mrfix-sos---platform",
+    "storage_bucket": "mrfix-sos---platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56580830373:android:ee55dde82c6605087ec94c",
+        "android_client_info": {
+          "package_name": "com.mrfix.mrfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56580830373-r9bq20ep8pb6hpf5ol08dgtuq576jspr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrRQ7FTD0Zctn9R20SIpRNRqy_kYpYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56580830373-r9bq20ep8pb6hpf5ol08dgtuq576jspr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56580830373-bss4u2f8001uvce1kk6u90a0aeddf2kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrFixExpert.mrFixExpert"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56580830373:android:b1b6d1d5409a30e67ec94c",
+        "android_client_info": {
+          "package_name": "com.mrfixexpert.mrfixexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56580830373-r9bq20ep8pb6hpf5ol08dgtuq576jspr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrRQ7FTD0Zctn9R20SIpRNRqy_kYpYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56580830373-r9bq20ep8pb6hpf5ol08dgtuq576jspr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56580830373-bss4u2f8001uvce1kk6u90a0aeddf2kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrFixExpert.mrFixExpert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
